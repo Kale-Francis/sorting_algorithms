@@ -1,0 +1,3 @@
+O(n)  # Best case: Already sorted list, no swaps
+O(n^2)  # Average case: Random list
+O(n^2)  # Worst case: Reverse sorted list
