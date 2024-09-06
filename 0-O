@@ -1,0 +1,4 @@
+O(n)        /* Best case: The array is already sorted */
+O(n^2)      /* Average case: Random order */
+O(n^2)      /* Worst case: The array is sorted in reverse order */
+
